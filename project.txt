@@ -1,0 +1,10 @@
+Boulder-Longmont,15,Denver,20
+Loveland-Longmont,30,Estes Park,40,Greeley,20
+Frisco-Denver,50,Grand Junction,60
+Greeley-Loveland,20
+Fort Collins-Loveland,15
+Denver-Boulder,20,Frisco,50,Colorado Springs,30
+Estes Park-Loveland,40,Longmont,35
+Colorado Springs-Denver,30
+Longmont-Loveland,30,Estes Park,35,Boulder,15
+Grand Junction-Frisco,60
